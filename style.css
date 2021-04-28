@@ -1,0 +1,46 @@
+
+html, body {
+    width: 100%;
+    height: 100%;
+}
+
+#reset {
+    margin: auto;
+    margin-bottom: 10px;
+    display: block;
+}
+
+.webpage {
+    margin: auto;
+    height: 600px;
+    width: 600px;
+}
+
+.container-col {
+    display: flex;
+    flex-direction: column;
+    height: 100%;
+    width: 100%;
+}
+
+.container-row{
+    display: flex;
+    flex-direction: row;
+    height: 100%;
+    width: 100%;
+}
+
+.thin-border {
+    border: 1px solid black;
+}
+
+.no-border {
+    border: 1px solid grey;
+
+}
+
+.item {
+    height: 100%;
+    width: 100%;
+}
+
